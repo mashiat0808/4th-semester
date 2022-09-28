@@ -1,0 +1,15 @@
+Following an introductory chapter, Chapter 1, the book is organized into four parts:
+Part One: Symmetric Ciphers: Provides a survey of symmetric encryption, including
+classical and modern algorithms. The emphasis is on the two most important algorithms,
+the Data Encryption Standard (DES) and the Advanced Encryption Standard (AES). This
+part also addresses message authentication and key management.
+Part Two: Public-Key Encryption and Hash Functions: Provides a survey of public-
+key algorithms, including RSA (Rivest-Shamir-Adelman) and elliptic curve. It also covers
+public-key applications, including digital signatures and key exchange.
+Part Three: Network Security Practice: Examines the use of cryptographic algorithms
+and security protocols to provide security over networks and the Internet. Topics covered
+include user authentication, e-mail, IP security, and Web security.
+Part Four: System Security: Deals with security facilities designed to protect a
+computer system from security threats, including intruders, viruses, and worms. This part
+also looks at firewall technology.
+
